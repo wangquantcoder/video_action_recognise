@@ -1,0 +1,20 @@
+This project is based on the researches aoubht action recogonition by dense
+trajectiories. There are three basic papers written by Heng Wang. 
+1.Wang, H., et al. "Action recognition by dense trajectories." IEEE Conference on Computer Vision & Pattern Recognition IEEE, 2011:3169-3176.
+2.Wang, Heng, et al. "Dense Trajectories and Motion Boundary Descriptors for Action Recognition." International Journal of Computer Vision 103.1(2013):60-79.
+3.Wang, Heng, and C. Schmid. "Action Recognition with Improved Trajectories." IEEE International Conference on Computer Vision 2013:3551-3558.
+
+Before we repeat the work, we should read these paper and understand the processthe authors have done. 
+The website http://lear.inrialpes.fr/people/wang/dense_trajectories
+can provide the details of the work and given the source code.
+
+The future work about this project can ben done like this.
+
+Jinhao Tang: 
+1.Read these paper and repeat these work by yourself. 
+2.Read the source code and add the explaination after code lines.
+3.Write the process of implenment in Chinese by Microsoft WORD. 
+4.Pull the source code in the github with https://github.com/wangquantcoder/video_action_recognise
+5.Share your work in the group when you come back to school in Sept.     
+
+Yao Sun: 
